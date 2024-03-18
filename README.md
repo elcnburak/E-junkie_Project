@@ -48,15 +48,11 @@ The scope of this project is to create and manage an automation test project inc
 Team members can seek help from the Team Leader or group communication channels when facing issues. If necessary, create "Knowledge Transfer" (KT) requests via Discord or other methods and tag your team members and us. As mentors, we are always here to share our knowledge and experiences.
 
 ## CONTRIBUTORS:
-## CONTRIBUTERS:
---------------------------------------------------
 
-NAME | E-MAIL                      | GITHUB
---- |-----------------------------| ---
-Elçin   | elcnburak@hotmail.com                  |https://github.com/elcnburak
-Muharrem  | muharremyurtsever@gmail.com |https://github.com/trbozo
-Numeyre  | numeyra122@icloud.com                           |https://github.com/Numeyra
-Gizem  | G.kurtoglu77@gmail.com      |https://github.com/GizemEminoglu
+|NAME | E-MAIL                      | GITHUB
+|--- |-----------------------------| ---
+|Elçin   | elcnburak@hotmail.com                  |https://github.com/elcnburak
+|Muharrem  | muharremyurtsever@gmail.com |https://github.com/trbozo
+|Numeyre  | numeyra122@icloud.com                           |https://github.com/Numeyra
+|Gizem  | G.kurtoglu77@gmail.com      |https://github.com/GizemEminoglu
 
-
----
